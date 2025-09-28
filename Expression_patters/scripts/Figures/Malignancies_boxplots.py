@@ -18,7 +18,7 @@ transcripts = ["SPN", "SPN-205"]
 colors = {"Tumor": "#FC4E92", "Normal": "#7DEE75"}
 
 base_dir = "results/Transcripts"
-figures_dir = f"results/figures/Malignancies_boxplots"
+figures_dir = f"results/Figures/Malignancies_boxplots"
 os.makedirs(figures_dir, exist_ok=True)
 
 df_all = []
@@ -75,7 +75,6 @@ for cancer in sorted(df_all["cancer_type"].unique()):
     plt.style.use('default')
     fig, ax = plt.subplots(figsize=(5,5))
 
-    # Boxplot
     box = ax.boxplot(data,
                      positions=positions,
                      patch_artist=True,

@@ -4,7 +4,6 @@
 #Dulce Alejandra Carrillo Carlos
 #Project: SPN-205 — Nonsense-mediated decay isoform expression analysis
 
-# Description:
 # Extract TCGA sample IDs for each cancer type
 # from the combined phenotype file `data/TcgaGTEX_phenotype.txt`.
 

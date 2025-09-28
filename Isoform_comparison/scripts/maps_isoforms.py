@@ -1,20 +1,25 @@
+"""
+Author:
+Dulce Alejandra Carrillo Carlos
+Project: SPN-205 — Nonsense-mediated decay isoform expression analysis
+
+Extracts genomic sequences for each transcript from a GTF annotation and reference genome,
+organizing features (exons, CDS, etc.) per transcript and saving them as TSV files.
+"""
 
 from Bio import SeqIO
 import pandas as pd
 from collections import defaultdict
 import os
 
-# Input files
 gtf_file = "data/spn.gtf"
 genome_file = "data/GRCh38.primary_assembly.genome.fa"
 out_dir = "results/transcript_maps"
 
 os.makedirs(out_dir, exist_ok=True)
 
-# Load genome
 genome = SeqIO.to_dict(SeqIO.parse(genome_file, "fasta"))
 
-# Parse GTF
 trans_features = defaultdict(list)
 with open(gtf_file) as f:
     for line in f:
@@ -35,15 +40,13 @@ with open(gtf_file) as f:
                 "strand": strand
             })
 
-# Process each transcript
 for tid, feats in trans_features.items():
-    # Order features by genomic start
     feats_sorted = sorted(feats, key=lambda x: x["start"])
     
     rows = []
     for f in feats_sorted:
         chrom_seq = genome[f["chrom"]].seq
-        seq = chrom_seq[f["start"]-1:f["end"]]  # 1-based to 0-based
+        seq = chrom_seq[f["start"]-1:f["end"]]
         if f["strand"] == "-":
             seq = seq.reverse_complement()
         rows.append({
@@ -55,5 +58,3 @@ for tid, feats in trans_features.items():
     
     df = pd.DataFrame(rows)
     df.to_csv(f"{out_dir}/{tid}_map.tsv", sep="\t", index=False)
-
-print(f"Transcript maps saved to {out_dir}/")

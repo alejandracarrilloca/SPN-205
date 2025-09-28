@@ -7,7 +7,6 @@ Compare expression levels of SPN gene transcripts between tumor and normal tissu
 across multiple cancer types. Using the Mann-Whitney U test (Wilcoxon rank-sum) for each
 transcript-cancer pair and visualize the results in a dot plot with significance and log2 fold 
 change.
-
 """
 
 import pandas as pd
@@ -20,7 +19,7 @@ import seaborn as sns
 transcripts = ["SPN-201", "SPN-202", "SPN-203", "SPN-204", "SPN-205"]
 
 base_dir = "results/Transcripts"
-figures_dir = "results/figures"
+figures_dir = "results/Figures"
 output_path = f"{base_dir}/wilcoxon_test.tsv"
 os.makedirs(figures_dir, exist_ok=True)
 

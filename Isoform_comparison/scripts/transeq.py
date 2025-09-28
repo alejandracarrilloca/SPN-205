@@ -1,22 +1,25 @@
-#Translate the sequence 
+"""
+Author:
+Dulce Alejandra Carrillo Carlos
+Project: SPN-205 — Nonsense-mediated decay isoform expression analysis
+
+Translates coding DNA sequences (CDS) from a FASTA file into protein sequences,
+writing the resulting amino acid sequences to a new FASTA file.
+"""
 
 from Bio import SeqIO
 from Bio.Seq import Seq
 import sys
 
-# Input and output files
 input_fasta = "results/sequences/spn.cds.fa"
 output_fasta = "results/sequences/spn.prot.fa"
 
-# Open output file
 with open(output_fasta, "w") as out_f:
-    # Parse input CDS FASTA
     for rec in SeqIO.parse(input_fasta, "fasta"):
         seq = str(rec.seq).replace("\n", "")
         if not seq:
-            continue  # skip empty sequences
+            continue
         try:
-            # Translate to protein (stop codons become '*')
             prot = str(Seq(seq).translate(to_stop=False))
             out_f.write(f">{rec.id}\n{prot}\n")
         except Exception as e:

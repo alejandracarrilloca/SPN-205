@@ -6,28 +6,6 @@ Project: SPN-205 — Nonsense-mediated decay isoform expression analysis
 Filter transcript-level expression matrices (SPN-201 to SPN-205) 
 based on GTEx sample ID file and create a single 
 vertically formatted file per transcript.
-
-Each sample entry includes:
-- Sample ID
-- Expression value (TPM)
-- Cancer code (from file name, e.g., GTEx tissue code)
-- Transcript (SPN-201 … SPN-205)
-
-Inputs:
-1. Expression matrices (TSV format):
-    - Located in results/Transcripts/<transcript>/
-    - Each file named <transcript>_expression.tsv
-    - Format: rows = transcripts, columns = sample IDs
-    - Assumes only one transcript per file (one row)
-
-2. Metadata files with sample IDs and tissue information:
-    - Folder defined in `ids_folder` (results/IDS/GTEx_IDS)
-
-Outputs:
-- One combined file per transcript: <transcript>_GTEx_expression.tsv
-- Format:
-    sample_id | TPM | cancer_type | tissue_type | transcript
-
 """
 
 import os
@@ -40,14 +18,8 @@ transcripts = ["SPN-201", "SPN-202", "SPN-203", "SPN-204", "SPN-205"]
 
 for transcript_name in transcripts:
     transcript_path = os.path.join(transcripts_folder, transcript_name)
-    if not os.path.isdir(transcript_path):
-        print(f"Folder not found": {transcript_path}")
-        continue
 
     expr_files = [f for f in os.listdir(transcript_path) if f.endswith("_expression.tsv")]
-    if not expr_files:
-        print(f"No expression file found for {transcript_name}")
-        continue
 
     expression_file = os.path.join(transcript_path, expr_files[0])
     output_file = os.path.join(transcript_path, f"{transcript_name}_GTEx_expression.tsv")

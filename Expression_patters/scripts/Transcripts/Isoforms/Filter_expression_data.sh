@@ -4,7 +4,6 @@
 #Dulce Alejandra Carrillo Carlos
 #Project: SPN-205 — Nonsense-mediated decay isoform expression analysis
 
-# Description:
 # Extracts isoform-level expression data
 # for SPN-201, SPN-202, SPN-203,
 # SPN-204, SPN-205 from the GTEx/TCGA isoform dataset
