@@ -1,7 +1,7 @@
 ### Exploring the role of SPN-205: an nonsense-mediated decay targeted CD43 isoform
-*Dulce Alejandra Carrillo Carlos¹, Luis Eduardo Chipres Naranjo¹, Yvonne Jane Rosenstein Azoulay¹*
+Dulce Alejandra Carrillo Carlos¹, Luis Eduardo Chipres Naranjo¹, Yvonne Jane Rosenstein Azoulay¹
 
-*Institute of biotechnology, National Autonomous University of Mexico¹*
+Institute of biotechnology, National Autonomous University of Mexico¹
 
 CD43, encoded by the SPN gene, is a transmembrane sialomucin primarily studied in leukocytes. It plays an essential role in adhesion, migration, and the activation of immune cells. In cancer, CD43 plays a role in immune evasion, with its expression varying across different types of tumors.
 
