@@ -1,0 +1,1 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study

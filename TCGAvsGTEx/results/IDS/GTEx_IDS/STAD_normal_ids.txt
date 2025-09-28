@@ -1,0 +1,212 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+GTEX-UPK5-2126-SM-4JBJK	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-14BMV-2226-SM-5RQHX	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-13O3Q-2126-SM-5KM4C	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-TKQ2-0926-SM-4DXU5	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-11EI6-2426-SM-5PNVS	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-Y8E4-1526-SM-4WWDI	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WZTO-2126-SM-4PQYW	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-T5JC-1926-SM-4DM6Q	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-PLZ6-0826-SM-3P61K	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-Y3I4-1626-SM-4TT7W	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-XAJ8-0326-SM-47JYI	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-11P82-0726-SM-5PNYL	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-131XE-2226-SM-5PNYX	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-13RTK-0226-SM-5RQHR	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-139YR-1926-SM-5LZXM	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-R55D-1526-SM-48FEJ	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-13111-1226-SM-5GCNC	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-S4Z8-1226-SM-4AD6W	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-11EQ9-1226-SM-5987E	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-V1D1-1726-SM-4JBHB	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-OIZH-1526-SM-3NB1J	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-YEC3-1426-SM-5PNXW	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-U8T8-1226-SM-4E3IH	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WFJO-1126-SM-4LVLZ	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WHWD-1426-SM-4OORU	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-13O61-1126-SM-5L3FI	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZTX8-0426-SM-59HLG	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-SNOS-0826-SM-4DM5N	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-OOBJ-1526-SM-3NB1Q	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-PW2O-1226-SM-48TCH	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-YEC3-1426-SM-4WWEM	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-P4PQ-1526-SM-3NMCK	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-T8EM-1226-SM-4DM5J	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-Q2AH-1126-SM-48TZM	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-S3XE-1026-SM-4AD4O	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-12C56-0526-SM-5FQST	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-NFK9-1526-SM-3LK7B	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WHSB-1226-SM-4M1XR	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-VJYA-1026-SM-4KL21	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WY7C-1726-SM-4ONCC	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-13PVQ-2126-SM-5L3FW	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-O5YW-1526-SM-3MJGL	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WYJK-2526-SM-4ONDF	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-11WQK-2626-SM-5EQ4K	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-QXCU-1926-SM-48FE4	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZVZP-1726-SM-5GZWY	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-Y9LG-1026-SM-5IFJN	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-145MO-2226-SM-5Q5BN	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-SIU7-1426-SM-4BRWT	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-Y5V6-1326-SM-4VDTF	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-XQ8I-2026-SM-4BOOL	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WH7G-1526-SM-4LVMX	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZVP2-1626-SM-5GU5D	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-QMRM-1126-SM-447BN	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZLFU-1326-SM-4WWET	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-131XF-1226-SM-5HL8V	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-S4Q7-0726-SM-4AD5F	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-TKQ1-0526-SM-4DXTG	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-YJ8A-1526-SM-5P9FT	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZEX8-1626-SM-4WKG7	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-QDVJ-1426-SM-48U1Y	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-UJMC-1226-SM-4IHLI	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-V955-1326-SM-4JBHR	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZQUD-0826-SM-57WDQ	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-132QS-1826-SM-5IFFN	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZZ64-0426-SM-5E43F	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-13OW6-2526-SM-5IJEC	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-RM2N-0826-SM-48FD3	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WFG8-1326-SM-4LVN3	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZV7C-1626-SM-5NQ7E	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-QV44-1226-SM-4R1KE	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-1399R-1126-SM-5IFIO	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-Q2AI-0826-SM-48TZO	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-XXEK-0826-SM-4BRWG	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-YEC4-1426-SM-5IFHS	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-11NSD-1426-SM-5HL67	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-13O21-0926-SM-5IFGT	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-144GN-1226-SM-5O991	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-12BJ1-1726-SM-5HL9B	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WFG7-1326-SM-4LMK1	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZDYS-1926-SM-5HL59	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-117YW-2226-SM-5N9DB	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-QV31-0626-SM-447C5	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-1339X-1426-SM-5K7YO	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZAB4-1526-SM-5CVN7	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-13FTW-1726-SM-5KM2B	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-QLQW-0726-SM-447AA	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-YFCO-0826-SM-5LUAG	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-111CU-0926-SM-5EGIK	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-111YS-1126-SM-5GZYQ	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-SNMC-0626-SM-4DM6H	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-QLQ7-0826-SM-447B3	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-QDVN-1226-SM-48TZ5	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WFON-1126-SM-4LVMA	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-11TT1-0726-SM-5GU5A	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-12696-1726-SM-5EQLH	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-XBED-1226-SM-4AT5V	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-11NUK-2426-SM-5BC4U	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-SUCS-0926-SM-4DM4Z	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-U8XE-2126-SM-5CHRC	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-WFON-1126-SM-5CHTG	Stomach	Stomach	Stomach	Normal Tissue	Male	GTEX
+GTEX-ZE7O-3026-SM-51MS4	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZPIC-2026-SM-57WG3	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-1211K-1426-SM-5FQTF	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-UJHI-1026-SM-4IHJP	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-146FR-2026-SM-5NQAI	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-146FH-2126-SM-5SI9U	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-139D8-2326-SM-5IFGE	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-11VI4-0326-SM-5EQ6L	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-P78B-1826-SM-3P5YX	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZYVF-2726-SM-5GID4	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-WYVS-1326-SM-4ONCQ	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZVT3-2126-SM-59HL2	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-13OVI-2426-SM-5KM4J	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-XV7Q-1326-SM-4BRWM	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-12WS9-1426-SM-5FQT3	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZF2S-1426-SM-57WET	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-POMQ-0826-SM-3P61H	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-S4P3-0726-SM-4AD57	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-S7SF-0626-SM-4AD4V	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-13FH7-1026-SM-5IJGF	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-12WSD-2326-SM-59HKQ	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-132AR-2426-SM-5IFFD	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-12WSJ-0926-SM-5P9JD	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-13113-0726-SM-5LZUF	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-OHPK-1526-SM-3MJGM	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZZPU-1426-SM-5GZZ6	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-13S7M-1826-SM-5RQK6	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-13D11-2126-SM-5IFH2	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-Y114-1226-SM-4TT88	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-R55G-1126-SM-48FDG	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-Q734-1026-SM-48U16	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-RU1J-0526-SM-46MUT	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-S4UY-1626-SM-4AD55	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-11I78-1726-SM-5A5M3	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-P4QT-1526-SM-3NMCT	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-11DXX-1326-SM-5GIDZ	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-WRHK-0626-SM-4MVOE	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-R53T-1226-SM-48FCT	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-P4PP-1526-SM-3P61M	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-S341-0626-SM-4AD5T	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZP4G-1226-SM-4WWCJ	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZVT2-1626-SM-51MRC	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-13QBU-1126-SM-5LU44	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-OXRK-1626-SM-3NB17	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-11GSP-2126-SM-5HL5E	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-1122O-1926-SM-5EGIQ	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-PWN1-1526-SM-48TDA	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-PX3G-1526-SM-48U11	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-Y3IK-1426-SM-4YCES	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-145ME-1026-SM-5O9B4	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZF29-1526-SM-4WKF7	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZXES-1426-SM-5NQ8S	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-QCQG-0526-SM-48U2A	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-13CF3-1926-SM-5K7WF	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-PWOO-1226-SM-48TCO	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-13X6H-1626-SM-5Q5CT	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZLV1-0826-SM-4WWEQ	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-11EM3-1026-SM-5A5KL	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZV6S-0926-SM-57WGB	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-14BMU-1126-SM-5RQJ8	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-XUZC-0726-SM-4BOPH	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-Y5LM-1326-SM-5RQIS	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-Y8LW-0826-SM-4WWDO	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZYFG-1326-SM-5GICJ	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-WXYG-1626-SM-4ONCR	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-X15G-1126-SM-4PQZG	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-13FTX-0726-SM-5N9BI	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-131XG-1226-SM-5EGH9	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-RWS6-0926-SM-47JXE	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-T5JW-0926-SM-4DM5K	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-T6MO-0726-SM-4DM58	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-W5WG-1726-SM-4LMI5	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-ZYY3-1726-SM-5EGH3	Stomach	Stomach	Stomach	Normal Tissue	Female	GTEX
+GTEX-YEC3-1426-101806-SM-5PNXX	Stomach	Stomach		Normal Tissue	Male	GTEX
+TCGA-BR-7703-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-IN-8462-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-FP-7735-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-HU-A4GH-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-BR-7851-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-HU-A4GC-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-IP-7968-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-CG-5720-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-BR-6457-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-FP-7829-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-CG-5734-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-HU-A4HB-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-IN-8663-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-BR-6802-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-BR-7715-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-BR-7717-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-IN-AB1V-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-HU-A4GN-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-BR-6454-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-HU-8238-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-BR-6453-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-HU-A4G3-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-IN-7806-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Male	TCGA
+TCGA-CG-5728-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-CG-5733-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-CG-5730-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-IN-AB1X-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-HU-A4GY-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-BR-8060-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-BR-7704-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-CG-5722-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-BR-6852-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-BR-7716-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-HU-A4GP-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-BR-6458-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA
+TCGA-BR-6564-11	Stomach Adenocarcinoma	Stomach Adenocarcinoma	Stomach	Solid Tissue Normal	Female	TCGA

@@ -1,0 +1,4 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+TCGA-SQ-A6I4-11	Pheochromocytoma & Paraganglioma	Pheochromocytoma & Paraganglioma	Paraganglia	Solid Tissue Normal	Male	TCGA
+TCGA-P8-A5KC-11	Pheochromocytoma & Paraganglioma	Pheochromocytoma & Paraganglioma	Paraganglia	Solid Tissue Normal	Male	TCGA
+TCGA-P8-A5KD-11	Pheochromocytoma & Paraganglioma	Pheochromocytoma & Paraganglioma	Paraganglia	Solid Tissue Normal	Female	TCGA

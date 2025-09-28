@@ -1,0 +1,161 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+GTEX-1399R-1226-SM-5P9GF	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-YECK-1926-SM-4W21H	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13FTZ-0726-SM-5IFFY	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11NUK-1226-SM-5P9GM	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-1399T-0826-SM-5IFES	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-ZAB5-0426-SM-5CVMI	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-T6MN-1226-SM-3NMA5	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-139TS-1426-SM-5IFJD	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11WQC-0726-SM-5EQMR	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-SJXC-1226-SM-4DM78	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13VXU-0926-SM-5IFFH	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11NV4-1326-SM-5HL6V	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-145LU-1326-SM-5LU9N	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-ZEX8-0826-SM-4WKHK	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13OW6-2626-SM-5IFF2	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-ZPU1-0826-SM-57WG2	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-RWSA-1426-SM-47JXA	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13FLV-0326-SM-5N9DJ	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13112-1426-SM-5EGH8	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11OF3-0726-SM-5BC4Z	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-147JS-1126-SM-5RQIW	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-12WSM-0726-SM-5GCOW	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11ZUS-2526-SM-59872	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-1212Z-0226-SM-59HLF	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-QEG4-1826-SM-4R1JN	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-S33H-1626-SM-4AD68	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11DXY-0526-SM-5EGGQ	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-ZYT6-0626-SM-5E45V	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-139UC-1426-SM-5IJGH	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13NYB-1026-SM-5IFH3	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-XOTO-0826-SM-4B65O	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11DXZ-0126-SM-5EGGY	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-XBEC-1526-SM-4AT68	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-139TU-0826-SM-5IJFG	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-WY7C-0726-SM-4ONCB	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-12WSI-0226-SM-5GCNA	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-WZTO-0626-SM-4PQYY	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11EQ9-0526-SM-5A5JZ	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-131XH-0626-SM-5LZWH	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-12ZZZ-1326-SM-59HKW	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-12KS4-1326-SM-5LUB3	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13NZB-0626-SM-5IFH6	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-RN64-1826-SM-48FDV	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-14753-1626-SM-5NQ9L	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-WFON-1726-SM-4LVMQ	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13PVQ-1526-SM-5IFEQ	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-VUSG-0126-SM-4KL1X	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-P44G-1126-SM-3NM9D	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13FTW-1126-SM-5J2NV	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-YB5E-0326-SM-5IFHU	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-14E1K-0326-SM-5S2PE	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-147F4-1426-SM-5LUA8	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-RM2N-1926-SM-48FCU	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-OOBJ-0826-SM-3NB2K	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-UTHO-2426-SM-4JBHD	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-139YR-0226-SM-5IFEM	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11UD2-1626-SM-5EQM3	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-Z9EW-0426-SM-5CVM9	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-ZVP2-0626-SM-51MSO	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-ZAB4-0826-SM-5LU9D	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11TUW-1726-SM-5BC5C	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-U8XE-1526-SM-4E3HT	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-XXEK-1126-SM-4BRUX	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-12WSL-0226-SM-5CVMJ	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-12696-0826-SM-5EGGE	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-1192X-1026-SM-5H12P	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-WQUQ-1926-SM-4OOSA	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-O5YT-0826-SM-3TW8N	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-X261-1726-SM-4PQYT	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-X4XY-1626-SM-46MVN	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11TT1-1726-SM-5EQLJ	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-13NZ9-1326-SM-5MR3V	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-144GM-1326-SM-5LU5E	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-131XE-0326-SM-5LZVO	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-14C38-1526-SM-5RQJ7	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-1497J-0726-SM-5Q5D1	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-QDVN-0826-SM-48TZ2	Liver	Liver	Liver	Normal Tissue	Male	GTEX
+GTEX-11ZTS-1426-SM-5EQMM	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-Y5V5-0926-SM-4VBPZ	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-Q2AG-1126-SM-48U1P	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-P78B-1326-SM-3P611	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-WYVS-1926-SM-4PQZ2	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-UPIC-0926-SM-4IHLV	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-RNOR-1426-SM-48FDJ	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-ZF2S-3026-SM-4WWCH	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-ZVT3-1626-SM-5GU66	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-131YS-1626-SM-5HL6C	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-11ZVC-0726-SM-5FQT9	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-YFC4-1526-SM-5IFJS	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-ZVT4-0626-SM-5E45T	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-WYVS-1926-SM-4SOIC	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-13SLX-1226-SM-5S2Q6	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-ZZPU-0426-SM-5GZYH	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-1269C-0626-SM-5FQSS	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-ZF29-2026-SM-4WWB7	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-RU72-1426-SM-46MUF	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-13O3O-1826-SM-5IFGW	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-14A5I-1726-SM-5QGQ5	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-13QJC-0726-SM-5RQJK	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-Y5LM-0426-SM-4VBRO	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-RTLS-1326-SM-46MUN	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-13113-1326-SM-5GCOI	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-X4EP-1026-SM-4QAS5	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-13OVJ-1026-SM-5IFGI	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-13PVR-0126-SM-5S2PY	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-13N11-0926-SM-5IJG2	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-ZYY3-0626-SM-5NQ6W	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-ZTPG-1426-SM-51MT3	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-132AR-0426-SM-5IFH8	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+GTEX-S32W-1926-SM-4AD63	Liver	Liver	Liver	Normal Tissue	Female	GTEX
+TCGA-DD-A39V-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-BC-A10T-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-BC-A10Y-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A1EG-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A3A8-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-FV-A2QR-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-FV-A3R2-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A11B-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A1EE-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-EP-A3RK-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-EP-A26S-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-BC-A10U-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-BD-A2L6-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A11C-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A116-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A11A-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A3A1-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-EP-A12J-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-ES-A2HT-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-G3-A3CH-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-BC-A10W-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A1EI-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A3A3-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A114-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A119-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A3A4-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A1EH-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-DD-A1EL-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Male	TCGA
+TCGA-FV-A3I1-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A39X-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A118-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A3A2-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-FV-A3I0-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-BD-A3EP-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-BC-A10Q-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A1EB-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A3A6-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A1EJ-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-FV-A23B-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-BC-A10R-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A3A5-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-BC-A10Z-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-BC-A216-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A11D-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A113-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-BC-A10X-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-BC-A110-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A39Z-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A39W-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA
+TCGA-DD-A1EC-11	Liver Hepatocellular Carcinoma	Liver Hepatocellular Carcinoma	Liver	Solid Tissue Normal	Female	TCGA

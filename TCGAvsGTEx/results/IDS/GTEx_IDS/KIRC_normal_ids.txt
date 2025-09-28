@@ -1,0 +1,101 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+GTEX-ZE9C-1426-SM-4WKGM	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-11PRG-2226-SM-5GU5R	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-147F4-2626-SM-5Q5CS	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-ZLFU-0926-SM-5P9F8	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-13NYB-1726-SM-5N9G2	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-13112-2126-SM-5GCO4	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-12696-0926-SM-5FQTV	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-XPVG-0526-SM-4B65N	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-ZYT6-2226-SM-5GIC9	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-13OW6-1826-SM-5N9F9	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-1497J-0826-SM-5NQAJ	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-ZDXO-0226-SM-4WKH7	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-11OF3-1326-SM-5N9FJ	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-QLQW-1626-SM-4R1K1	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-T5JC-1526-SM-4DM68	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-13O1R-2526-SM-5N9FW	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-N7MS-1626-SM-3LK5F	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-145MN-0326-SM-5QGQI	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-Y5V6-2026-SM-5IFHO	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-NPJ8-2226-SM-3TW8D	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-13RTJ-2226-SM-5S2Q1	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-ZYFD-1526-SM-5NQ7T	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-T6MN-1826-SM-5CHQB	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Male	GTEX
+GTEX-1399S-0526-SM-5IJG8	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Female	GTEX
+GTEX-ZYFG-1626-SM-5GZYY	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Female	GTEX
+GTEX-ZC5H-1726-SM-5HL7X	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Female	GTEX
+GTEX-12WSG-0826-SM-5EQ5A	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Female	GTEX
+GTEX-WI4N-2026-SM-4OOS7	Kidney - Cortex	Kidney - Cortex	Kidney	Normal Tissue	Female	GTEX
+TCGA-CJ-5689-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-4864-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CJ-5672-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5468-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5462-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B2-5636-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B2-5641-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-4712-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5463-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CW-5584-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5451-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-5703-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CJ-5679-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-5694-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-5696-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5452-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CW-6090-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5453-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5466-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-5701-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CJ-6030-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-5402-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5454-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5455-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CJ-5678-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5457-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CW-6087-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5986-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-4700-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CW-6088-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5987-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5989-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B8-4619-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5985-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B8-4622-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5456-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CW-5591-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-5699-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B8-5549-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CW-5589-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5461-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CW-5585-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5984-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-5697-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-5711-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-A3-3387-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CJ-5676-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-B0-5706-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CW-5581-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5458-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5469-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5988-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-CZ-5467-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CZ-5465-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CW-5580-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CZ-5470-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-B8-4620-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CZ-4865-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-B0-5712-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-B0-5691-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-B0-5705-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CJ-5680-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-B0-5709-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CW-5587-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CZ-5982-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-A3-3358-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CJ-5677-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CJ-6033-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-B0-5690-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CZ-4863-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-CJ-5681-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-B8-5552-11	Kidney Clear Cell Carcinoma	Kidney Clear Cell Carcinoma	Kidney	Solid Tissue Normal	Female	TCGA

@@ -1,0 +1,92 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+TCGA-KN-8430-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KN-8428-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KL-8326-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KL-8339-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KN-8436-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KN-8435-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KL-8332-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KN-8427-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KN-8425-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KN-8426-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KO-8403-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KN-8423-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KN-8419-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Male	TCGA
+TCGA-KN-8432-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KL-8324-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KN-8434-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KL-8329-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KL-8336-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KN-8433-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KO-8415-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KN-8424-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KN-8437-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KN-8429-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KN-8431-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KN-8422-11	Kidney Chromophobe	Kidney Chromophobe	Kidney	Solid Tissue Normal	Female	TCGA
+TCGA-KO-8404-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8345-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8430-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8343-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8428-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8326-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8333-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KO-8409-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8335-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8339-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KM-8639-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8346-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8436-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8328-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8435-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KO-8411-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KM-8443-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KM-8477-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8332-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8427-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8425-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8338-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8344-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8426-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KO-8403-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KM-8476-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KO-8408-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KO-8413-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8423-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8419-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KO-8407-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8341-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KO-8416-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KM-8442-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KM-8440-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8340-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KM-8439-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KO-8405-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KL-8337-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Male	TCGA
+TCGA-KN-8432-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KO-8410-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8324-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KN-8434-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KM-8441-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8323-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8329-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8325-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8336-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KO-8414-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8331-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KN-8421-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8327-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KN-8433-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8342-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KM-8438-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8330-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KO-8415-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KN-8424-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KN-8437-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KN-8418-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KN-8429-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KL-8334-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KN-8431-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KO-8417-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KN-8422-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA
+TCGA-KO-8406-01	Kidney Chromophobe	Kidney Chromophobe	Kidney	Primary Tumor	Female	TCGA

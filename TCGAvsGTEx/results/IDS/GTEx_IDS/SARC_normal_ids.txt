@@ -1,0 +1,3 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+TCGA-K1-A3PO-11	Sarcoma	Sarcoma	Soft tissue,Bone	Solid Tissue Normal	Male	TCGA
+TCGA-FX-A2QS-11	Sarcoma	Sarcoma	Soft tissue,Bone	Solid Tissue Normal	Female	TCGA

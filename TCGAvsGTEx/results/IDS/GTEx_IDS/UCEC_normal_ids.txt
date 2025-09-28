@@ -1,0 +1,102 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+GTEX-P4PP-2026-SM-3P61N	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-11I78-2126-SM-5A5K8	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13U4I-1926-SM-5LU39	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-131XG-2026-SM-5GCN5	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-OHPK-2026-SM-3MJH7	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-XV7Q-1526-SM-4BRWB	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-RWS6-1326-SM-47JXB	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-QCQG-1326-SM-48U24	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-12WSG-2126-SM-5EGJ7	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-RU72-2626-SM-4TT75	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-131YS-2326-SM-5IJFJ	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-PX3G-2026-SM-48U1H	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13D11-1226-SM-5IFGA	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-12WSD-2826-SM-59HKT	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-1313W-2826-SM-5P9G1	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-11ZTS-2326-SM-5EQMY	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-U3ZN-0726-SM-4DXT5	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-YFC4-2826-SM-5P9FR	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-XYKS-1626-SM-4BRUQ	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-Y3IK-2126-SM-4YCDS	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-PWCY-1426-SM-48TCT	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-139D8-2526-SM-5N9G3	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-11DXX-1526-SM-5H115	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-ZAK1-2526-SM-5S2N7	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-ZLWG-1026-SM-4WWC4	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-ZVT2-0426-SM-5E44S	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-ZP4G-0726-SM-4WWF2	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-P4QT-2026-SM-3NMCJ	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-P78B-2526-SM-3P5ZY	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-113JC-2226-SM-5EGJG	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-14BIM-2226-SM-5SI8Y	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-Q734-1626-SM-48U1B	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13VXT-1626-SM-5IJES	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-WYVS-1226-SM-4ONCL	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-1399S-2226-SM-5IFEW	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-OHPL-2026-SM-3TW8R	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-14BMU-1826-SM-5RQII	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-XUW1-0226-SM-4BOOS	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-145ME-1326-SM-5O98Q	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-12ZZX-2126-SM-5LZVL	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-R55G-1626-SM-48FF4	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-YJ8O-1126-SM-5P9IS	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-T2IS-2226-SM-4DM65	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13PL7-2026-SM-5IFGK	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-W5WG-1326-SM-4LMI9	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13FTX-1026-SM-5J2O5	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-1117F-2426-SM-5EGGH	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-132AR-1526-SM-5KM1L	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13OVJ-2326-SM-5IJGA	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-WEY5-0726-SM-4LMID	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-1399U-1326-SM-5IJET	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-11P81-1626-SM-5BC52	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-ZV6S-1526-SM-5NQ7O	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-N7MT-0726-SM-3TW8S	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-11ZTT-1726-SM-5EQL4	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-S4UY-1226-SM-4AD51	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13S7M-1726-SM-5RQK3	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-12WSK-2026-SM-5CVNB	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-ZXES-0726-SM-5E451	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-XUZC-0926-SM-4BOQF	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-ZYVF-0526-SM-5E43E	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-WWYW-2826-SM-4MVOQ	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-T6MO-1526-SM-4DM57	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-WXYG-1326-SM-4ONCN	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-UPIC-1526-SM-4IHLU	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-XUJ4-1526-SM-4BONU	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-POMQ-1226-SM-3P61F	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13QBU-1626-SM-5LU4S	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-11EM3-1926-SM-5987U	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-PWN1-2026-SM-48TD9	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13N11-1126-SM-5KM41	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-T5JW-1526-SM-4DM5E	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-TMMY-2226-SM-4DXTN	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-13OVI-1026-SM-5L3EM	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-S341-1026-SM-4AD71	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-ZAJG-2826-SM-5HL8D	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-ZTPG-2026-SM-5O999	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+GTEX-WI4N-2426-SM-4OOSC	Uterus	Uterus	Uterus	Normal Tissue	Female	GTEX
+TCGA-AJ-A3NH-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-BG-A3PP-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-AX-A2HD-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-DI-A2QY-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-AJ-A3NC-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-BG-A2AD-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-BG-A3EW-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-AX-A05Y-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-AX-A0IZ-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-AX-A2HC-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-AX-A0J0-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-AJ-A3NE-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-BK-A4ZD-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal	Female	TCGA
+TCGA-FL-A1YG-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA
+TCGA-FL-A1YH-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA
+TCGA-FL-A1YI-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA
+TCGA-FL-A1YL-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA
+TCGA-FL-A1YN-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA
+TCGA-FL-A1YQ-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA
+TCGA-FL-A1YT-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA
+TCGA-FL-A1YU-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA
+TCGA-FL-A1YV-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA
+TCGA-FL-A3WE-11	Uterine Corpus Endometrioid Carcinoma	Uterine Corpus Endometrioid Carcinoma	Endometrium	Solid Tissue Normal		TCGA

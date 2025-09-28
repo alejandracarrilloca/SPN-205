@@ -1,0 +1,339 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+GTEX-SIU8-0626-SM-2XCDN	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-145LU-0426-SM-5O9AH	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-SJXC-0726-SM-2XCFJ	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-VUSG-0426-SM-3GIKD	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZDTS-0926-SM-4WAXG	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13112-0326-SM-5P9IW	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-OHPM-2626-SM-33HC5	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-RN64-0626-SM-2TC5V	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11DXY-0426-SM-5H12R	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-14ABY-0926-SM-5Q5DY	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WL46-0126-SM-3TW8I	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13OW8-0126-SM-5IJE5	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-Y8E4-0126-SM-4VBQ2	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-1399R-0126-SM-5IFEV	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WK11-0926-SM-3NMAU	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-YJ89-0726-SM-5P9F7	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZPU1-0426-SM-4WWCA	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-1212Z-0426-SM-5FQT6	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13X6J-0826-SM-5LU32	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZAB5-0726-SM-5P9JG	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13NZ9-1126-SM-5MR37	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13OW6-0726-SM-5L3FX	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-145MG-0826-SM-5Q5C2	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZYT6-0426-SM-5GID3	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-132NY-1026-SM-5P9IY	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WYJK-1626-SM-3NM9J	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-139TS-0126-SM-5K7XJ	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-V955-0426-SM-3GAEL	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WHPG-0226-SM-3NMB9	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13FHP-0926-SM-5L3EC	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-12WSC-0826-SM-5EQ5Q	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WVLH-0626-SM-3MJG7	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-117XS-0526-SM-5987Q	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-111FC-1026-SM-5GZX1	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13O3Q-0626-SM-5IJG1	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-OIZI-0726-SM-2XCEI	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZVP2-0426-SM-57WC2	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-X4XY-0826-SM-4E3JM	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13JVG-0926-SM-5IJE1	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-SIU7-1126-SM-2XCDW	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11NUK-1026-SM-5HL5J	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-N7MS-2326-SM-2HMLD	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-REY6-0526-SM-2TF5M	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-111VG-0526-SM-5N9BW	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-S7SE-0726-SM-2XCD7	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11GS4-0826-SM-5986J	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13NYB-0726-SM-5MR4J	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZT9X-0226-SM-51MT2	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13PVQ-0726-SM-5L3GI	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZYFC-0926-SM-5GZWW	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-P4PQ-2626-SM-33HC9	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13N2G-0726-SM-5MR38	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13W46-0926-SM-5LU3T	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-QXCU-0326-SM-2TC63	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-V1D1-0926-SM-4JBHQ	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13G51-1226-SM-5K7Z3	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13IVO-0926-SM-5KLZP	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11EI6-0726-SM-59866	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WHSE-0626-SM-4RGNF	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-P4QS-2626-SM-2I3EV	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11EQ9-0626-SM-5A5K1	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13O21-2226-SM-5MR3L	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-TKQ1-0126-SM-33HB3	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-14A5H-0726-SM-5Q5DW	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-145MH-0426-SM-5LU8T	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WY7C-0226-SM-3NB37	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11EQ8-0826-SM-5N9FG	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13OW7-0826-SM-5L3EL	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13VXU-0826-SM-5KLZ2	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-139UW-0126-SM-5KM1B	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-146FQ-0726-SM-5LUA7	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-NFK9-0726-SM-2HMJW	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-14C38-0826-SM-5S2U8	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-117YW-0126-SM-5EGGN	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-14753-0926-SM-5Q5BI	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-Y5V6-0526-SM-4VBRV	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11NSD-0126-SM-5987F	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZLFU-0626-SM-4WWBO	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11LCK-0526-SM-5A5M9	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13O3P-0726-SM-5J2OM	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11O72-2326-SM-5BC7H	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-12696-0326-SM-5EGL4	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13YAN-0926-SM-5O9C3	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-OIZG-0226-SM-2TC5L	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13OW5-0626-SM-5J2N2	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-X4LF-0426-SM-3NMB5	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WHSB-1626-SM-3LK6J	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-QV44-0826-SM-2S1RG	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11TT1-1126-SM-5P9GV	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-POYW-0826-SM-2XCEM	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZZ64-0126-SM-5GZXA	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-12ZZZ-1226-SM-59HK1	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11P7K-0226-SM-5986Z	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-Q2AI-0326-SM-2I3EK	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-Y111-1926-SM-4SOIS	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13111-0226-SM-5EQ55	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WH7G-0526-SM-3NMBI	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-1192X-1126-SM-5EGGU	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13NYC-2426-SM-5MR3K	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZYW4-1126-SM-5SI99	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-144FL-2326-SM-5LUAC	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-132QS-0326-SM-5IJFN	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-U8T8-2326-SM-3DB96	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-Y3I4-0226-SM-4TT27	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-U4B1-0626-SM-3DB8L	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-QDVN-0626-SM-2I3FP	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WOFL-0726-SM-3MJG4	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-12WSL-0626-SM-5GCOY	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-XLM4-0726-SM-4AT64	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-YF7O-0726-SM-4W213	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-131XE-0126-SM-5LZVC	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-XBEW-0126-SM-4AT66	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-131XF-1826-SM-5EGKG	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-YEC4-0626-SM-5CVLU	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11TUW-0226-SM-5LU8X	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-12584-0826-SM-5FQSK	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11UD2-0626-SM-5GU6L	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-R55C-0626-SM-2TF4Q	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZV7C-0126-SM-57WDE	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13FTW-0626-SM-5IFEX	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13OVG-0226-SM-5LU93	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-148VJ-0726-SM-5LU8J	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-S4Q7-0326-SM-3K2B1	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZDYS-0626-SM-5J2N5	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-YEC3-0826-SM-5P9JF	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-XGQ4-0426-SM-4AT4I	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-111YS-0726-SM-5GZY8	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-12WSN-0726-SM-5GCMS	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZVZP-1026-SM-5GICI	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-R55E-0826-SM-2TC5M	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZY6K-0226-SM-5SIAY	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13O1R-0826-SM-5J2MB	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-RVPV-1226-SM-2TF73	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WFG8-0426-SM-3GILD	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13FXS-0726-SM-5LZXJ	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-RM2N-0526-SM-2TF4N	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-117YX-1226-SM-5H11S	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-UJMC-0326-SM-3GAE2	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-Y9LG-0426-SM-4VBRT	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-12WSH-0226-SM-5GCOG	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13S86-1126-SM-5RQJX	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-X4XX-0926-SM-46MV7	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-YEC3-0826-SM-4WWFP	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13N1W-0826-SM-5MR5J	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-13RTK-0326-SM-5RQHS	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-XXEK-1326-SM-4BRV1	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-OIZH-2626-SM-2HMJM	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-OOBK-2626-SM-2HMKY	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11DZ1-2726-SM-5A5KH	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-X5EB-0726-SM-46MVR	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-1497J-0126-SM-5Q5BK	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-OHPM-2626-SM-5SI7I	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-XBED-0126-SM-47JY7	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-XMK1-0626-SM-4B65A	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-Q2AH-0726-SM-2I3EA	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-OOBJ-2626-SM-2I3F6	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZXG5-0926-SM-5NQ8H	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-144GM-0226-SM-5Q5CB	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-111CU-0226-SM-5GZXC	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-SUCS-0226-SM-32PLQ	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-14E6C-2626-SM-5RQJP	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-YFCO-0326-SM-4W1ZP	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-P4PQ-2626-SM-5SI7K	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-12BJ1-0426-SM-5FQSO	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZT9W-0226-SM-4YCCZ	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-14ICL-0426-SM-5RQJ3	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-ZA64-0426-SM-5HL96	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-144GO-0126-SM-5LUAO	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-YB5E-0626-SM-4VDSE	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WFG7-0326-SM-5SI7L	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-SNOS-0226-SM-32PLR	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-11GSO-0626-SM-5A5LW	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-WFG7-0326-SM-3GILI	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-SUCS-0226-SM-5CHQG	Thyroid	Thyroid	Thyroid	Normal Tissue	Male	GTEX
+GTEX-113JC-0126-SM-5EGJW	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11GSP-0126-SM-5A5KU	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-YFC4-2626-SM-5P9FQ	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-Y3IK-0526-SM-4WWE3	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-WYVS-0326-SM-3NM9V	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-1128S-0126-SM-5H12S	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11ZVC-0126-SM-5986G	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-1313W-0726-SM-5EGK1	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-132AR-1126-SM-5P9GA	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-Q734-0526-SM-2I3EH	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11DXX-0226-SM-5P9HL	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-RNOR-0926-SM-2TF56	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13FTY-0726-SM-5J2OH	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13O3O-0926-SM-5KM1F	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-Q2AG-0826-SM-2HMKF	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZAK1-0726-SM-5HL8Q	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11EMC-0226-SM-5EGLP	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11XUK-0226-SM-5EQLW	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-X15G-0526-SM-3NMB7	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZVZQ-0626-SM-59HJU	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-TSE9-0626-SM-3DB8B	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11TTK-0826-SM-5N9EG	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-14AS3-0226-SM-5Q5B6	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-12ZZX-1226-SM-5EGHS	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-XV7Q-0326-SM-4BRVM	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13PL6-1026-SM-5L3E5	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZLV1-0126-SM-4WWBZ	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-12WS9-0726-SM-5FQT7	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-145MI-1126-SM-5O9AK	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-12WSB-0726-SM-5N9GD	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZZPU-1326-SM-5GZWS	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-W5X1-0426-SM-3GILB	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-RTLS-0626-SM-5SI7Z	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZE7O-1126-SM-57WC8	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-OHPK-2626-SM-2HMK9	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-12WSD-0926-SM-5GCNL	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-P4QT-2626-SM-2I3FM	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-RWS6-0626-SM-2XCAS	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-133LE-0326-SM-5P9G4	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-WYBS-1926-SM-3NM8N	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-Y5V5-0326-SM-5RQJG	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-OXRP-0326-SM-33HBJ	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13QBU-0626-SM-5J2OG	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11ZTS-1126-SM-5LU9X	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-146FR-0326-SM-5SI8U	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZLWG-0526-SM-4WWFB	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-OXRO-1226-SM-48TDL	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-14BMU-0226-SM-5S2QA	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-12WSG-0226-SM-5EGIF	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-X8HC-0726-SM-46MWG	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZV6S-0226-SM-59HJT	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZGAY-1026-SM-4WWBR	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-S341-0226-SM-5S2VG	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-SN8G-1526-SM-4DM79	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11EM3-0126-SM-5985K	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZC5H-0626-SM-5LU9K	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZYY3-1926-SM-5GZXS	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13NZ8-0226-SM-5J2OK	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-WEY5-0526-SM-3GIKZ	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-W5WG-1426-SM-4KKZP	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-SE5C-0726-SM-4BRWY	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-PWN1-2626-SM-2I3FH	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-PWOO-0926-SM-2I3EC	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-WXYG-0226-SM-3NB2Y	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13X6H-0526-SM-5LU4Q	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-WWYW-0826-SM-3NB2X	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-Y114-0626-SM-4TT98	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11I78-0526-SM-5986A	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11ZTT-1026-SM-5EQKF	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-XUJ4-0726-SM-4BOOP	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-Y5LM-0626-SM-4V6G4	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13D11-0226-SM-5LZXL	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-WI4N-0926-SM-3LK7K	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-T6MO-0226-SM-32QOL	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-PWCY-2326-SM-2I3EQ	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZPCL-0126-SM-4WWC8	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-RU72-0126-SM-2TF6Z	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-131XG-0226-SM-5IFG1	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZVT3-0726-SM-5GICN	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13N11-1026-SM-5K7XQ	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZTPG-0826-SM-5DUVC	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13113-0126-SM-5LZVX	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-XUW1-1026-SM-4BONY	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-12WSJ-0326-SM-5GCMT	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-OXRP-0326-SM-5SI7J	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-ZYFG-0626-SM-5GZYA	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11P81-0126-SM-5HL5Y	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-12WSK-0926-SM-5CVNQ	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-OHPL-2626-SM-2HMJA	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13CF3-0926-SM-5LZZC	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-1122O-0226-SM-5N9DA	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13VXT-0626-SM-5SIA1	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-11VI4-0226-SM-5GU6C	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-13OVI-0826-SM-5KLZ8	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-145ME-0126-SM-5S2QM	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-OXRK-0626-SM-2HMJ5	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-XUZC-0126-SM-4BOO6	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-R55G-0726-SM-2TC6J	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-XYKS-0826-SM-4BRVF	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-RU1J-0226-SM-2TF5Y	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-1211K-0726-SM-5FQUW	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-S32W-0726-SM-2XCBL	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-R3RS-0726-SM-3GIJR	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-UPIC-0226-SM-3GADO	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+GTEX-RTLS-0626-SM-2TF6G	Thyroid	Thyroid	Thyroid	Normal Tissue	Female	GTEX
+TCGA-EL-A3MY-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-BJ-A2NA-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EM-A1CT-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-BJ-A290-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-ET-A3DW-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3T3-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZM-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3H2-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-BJ-A3PU-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3TA-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3T8-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZT-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EM-A1CU-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-ET-A2MX-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-H2-A2K9-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZP-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZG-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZO-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZQ-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A1YC-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A3PR-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3H1-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3MX-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A3ST-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-FY-A3TY-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3MW-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T2-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A1CS-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3N3-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T7-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3TB-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-KS-A41I-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZR-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-ET-A2N5-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T0-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-ET-A3DP-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A2N9-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZH-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZK-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A1CW-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-KS-A41L-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A28R-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T1-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3H7-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3GZ-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T6-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZL-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-GE-A2C6-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A28W-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A28X-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A1CV-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A2N7-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A2N8-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-H2-A3RI-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-KS-A41J-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3N2-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-DO-A1JZ-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZS-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-E8-A2JQ-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA

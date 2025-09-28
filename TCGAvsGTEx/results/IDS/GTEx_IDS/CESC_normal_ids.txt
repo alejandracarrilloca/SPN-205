@@ -1,0 +1,14 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+GTEX-S341-1326-SM-4AD72	Cervix - Endocervix	Cervix - Endocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+GTEX-T6MO-1426-SM-4DM73	Cervix - Endocervix	Cervix - Endocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+GTEX-S32W-1626-SM-4AD6G	Cervix - Endocervix	Cervix - Endocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+GTEX-TSE9-2726-SM-4DXSQ	Cervix - Endocervix	Cervix - Endocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+GTEX-S4UY-1426-SM-4AD6Y	Cervix - Ectocervix	Cervix - Ectocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+GTEX-S341-1126-SM-4AD6T	Cervix - Ectocervix	Cervix - Ectocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+GTEX-U3ZN-1626-SM-4DXTZ	Cervix - Ectocervix	Cervix - Ectocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+GTEX-TSE9-2826-SM-4DXTF	Cervix - Ectocervix	Cervix - Ectocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+GTEX-T5JW-0726-SM-4DM6D	Cervix - Ectocervix	Cervix - Ectocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+GTEX-S32W-1526-SM-4AD6Z	Cervix - Ectocervix	Cervix - Ectocervix	Cervix Uteri	Normal Tissue	Female	GTEX
+TCGA-MY-A5BF-11	Cervical & Endocervical Cancer	Cervical & Endocervical Cancer	Cervix	Solid Tissue Normal	Female	TCGA
+TCGA-FU-A3EO-11	Cervical & Endocervical Cancer	Cervical & Endocervical Cancer	Cervix	Solid Tissue Normal	Female	TCGA
+TCGA-HM-A3JJ-11	Cervical & Endocervical Cancer	Cervical & Endocervical Cancer	Cervix	Solid Tissue Normal	Female	TCGA

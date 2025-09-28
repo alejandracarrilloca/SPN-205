@@ -1,0 +1,104 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+TCGA-AG-3731-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Male	TCGA
+TCGA-AF-3400-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Male	TCGA
+TCGA-AH-6643-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Male	TCGA
+TCGA-AG-3725-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Female	TCGA
+TCGA-AG-3742-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Female	TCGA
+TCGA-AG-3732-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Female	TCGA
+TCGA-AF-5654-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Female	TCGA
+TCGA-AF-2692-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Female	TCGA
+TCGA-AF-2691-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Female	TCGA
+TCGA-AF-2689-11	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Solid Tissue Normal	Female	TCGA
+TCGA-G5-6572-02	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Recurrent Tumor	Male	TCGA
+TCGA-AF-4110-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AF-2693-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DY-A1DG-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-CI-6622-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-G5-6233-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AH-6644-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-BM-6198-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EF-5831-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-G5-6235-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EI-6884-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-F5-6702-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DC-6158-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-F5-6813-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DC-5337-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AG-3592-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DC-6160-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-F5-6812-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-G5-6641-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AF-6655-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AH-6549-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AG-3731-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-CI-6621-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DC-6156-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AH-6544-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EI-6507-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EI-6881-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EI-6513-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EI-6882-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EI-7002-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AF-2687-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DC-4749-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DC-6682-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-F5-6814-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AF-A56K-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-G5-6572-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EF-5830-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EI-6509-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EI-6511-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DT-5265-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AH-6643-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AF-3911-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AH-6897-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DC-6157-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AH-6903-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-CI-6623-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AF-6672-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-DC-6683-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-CI-6619-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-EI-6917-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Male	TCGA
+TCGA-AG-3725-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-CL-5918-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AG-3742-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AG-4021-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AH-6547-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-CL-4957-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AG-3732-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-EI-6506-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DY-A1DD-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DY-A1H8-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-EI-6510-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-F5-6464-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AF-2690-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-F5-6864-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AF-5654-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DY-A1DF-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AF-6136-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DY-A1DC-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-F5-6811-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-CL-5917-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-F5-6863-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DC-6681-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AG-3591-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-EI-6512-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-F5-6465-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DC-5869-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-F5-6571-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-F5-6861-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AG-4022-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-EI-6514-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DC-6154-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DY-A0XA-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-EI-6885-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DY-A1DE-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-CI-6624-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DC-4745-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AF-A56L-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-EI-6508-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-AF-A56N-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-CI-6620-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-EI-7004-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-DC-6155-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor	Female	TCGA
+TCGA-F5-6810-01	Rectum Adenocarcinoma	Rectum Adenocarcinoma	Rectum	Primary Tumor		TCGA

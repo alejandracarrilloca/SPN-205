@@ -1,0 +1,29 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+GTEX-U4B1-1226-SM-4DXT7	Bladder	Bladder	Bladder	Normal Tissue	Male	GTEX
+GTEX-S3XE-1226-SM-4AD4L	Bladder	Bladder	Bladder	Normal Tissue	Male	GTEX
+GTEX-SNMC-0826-SM-4DM66	Bladder	Bladder	Bladder	Normal Tissue	Male	GTEX
+GTEX-SNOS-0526-SM-4DM54	Bladder	Bladder	Bladder	Normal Tissue	Male	GTEX
+GTEX-S4Q7-0926-SM-4AD5D	Bladder	Bladder	Bladder	Normal Tissue	Male	GTEX
+GTEX-U3ZM-0826-SM-4DXU6	Bladder	Bladder	Bladder	Normal Tissue	Male	GTEX
+GTEX-S4UY-0926-SM-4AD6O	Bladder	Bladder	Bladder	Normal Tissue	Female	GTEX
+GTEX-SE5C-1026-SM-4BRUG	Bladder	Bladder	Bladder	Normal Tissue	Female	GTEX
+GTEX-S32W-1126-SM-4AD5V	Bladder	Bladder	Bladder	Normal Tissue	Female	GTEX
+TCGA-CU-A0YR-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-BT-A20Q-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-BT-A20N-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-BT-A20W-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-GC-A3BM-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-BL-A13J-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-CU-A0YN-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-K4-A54R-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-BT-A2LA-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-GD-A3OQ-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Male	TCGA
+TCGA-GC-A6I3-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Female	TCGA
+TCGA-GD-A3OP-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Female	TCGA
+TCGA-GC-A3WC-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Female	TCGA
+TCGA-BT-A20R-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Female	TCGA
+TCGA-K4-A3WV-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Female	TCGA
+TCGA-BT-A2LB-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Female	TCGA
+TCGA-BT-A20U-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Female	TCGA
+TCGA-K4-A5RI-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Female	TCGA
+TCGA-GD-A2C5-11	Bladder Urothelial Carcinoma	Bladder Urothelial Carcinoma	Bladder	Solid Tissue Normal	Female	TCGA

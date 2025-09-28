@@ -1,0 +1,153 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+GTEX-V955-1826-SM-4JBIL	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-14ABY-0726-SM-5Q5DF	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-1399T-1226-SM-5P9J5	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11ZUS-2126-SM-5N9E6	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-139T6-1526-SM-5P9G6	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13FHO-2826-SM-5K7ZA	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-ZLFU-1726-SM-4WWBU	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-WY7C-2026-SM-4ONCM	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-S95S-1026-SM-4B64M	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11OF3-1726-SM-5GU5Q	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13OW8-0426-SM-5J2NR	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-U3ZH-0926-SM-4DXU4	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-1399R-0526-SM-5IJEF	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-SJXC-2026-SM-4DM6N	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-132NY-2826-SM-5P9G2	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11O72-2726-SM-5HL6K	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-OOBJ-2026-SM-3NB1R	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-SUCS-1126-SM-4DM61	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-XPVG-2026-SM-4B65E	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-ZT9W-1626-SM-4YCDQ	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-111FC-2026-SM-5GZYO	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-117YW-1426-SM-5EGGO	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-ZUA1-2826-SM-59HLE	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-111YS-1726-SM-5GIED	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11EQ9-1726-SM-5HL6U	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13FXS-2826-SM-5LZYC	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11DXZ-1826-SM-5H12Y	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-QEG4-2226-SM-4R1JM	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-U3ZM-0926-SM-4DXSW	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-131XF-1926-SM-5DUW4	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-14BMV-2326-SM-5RQJ4	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-XOTO-2826-SM-4B65I	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-WFG8-1826-SM-4LVM4	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-YF7O-1926-SM-4W1YQ	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-VJYA-1226-SM-3GIJ6	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-U412-2026-SM-4DXSI	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-QV31-1026-SM-4R1K3	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-132QS-1126-SM-5P9GC	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-Y9LG-1826-SM-4VBQC	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11DYG-2526-SM-5N9BB	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13O21-1126-SM-5N9EV	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-YB5E-1826-SM-5IFI4	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-U4B1-1426-SM-4DXTX	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-ZDYS-1226-SM-5IJF3	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11P82-1126-SM-5BC5K	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-QMRM-1426-SM-4R1K8	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-1477Z-2226-SM-5QGPG	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11TUW-2126-SM-5GU7B	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-RWSA-2026-SM-47JX8	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13FTW-1226-SM-5LZZ1	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13N2G-1826-SM-5KM1I	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-WFG7-1826-SM-3GIL1	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-WH7G-1726-SM-4LVKY	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-S4Q7-1026-SM-4AD75	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-REY6-2126-SM-48FD9	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-12ZZZ-2026-SM-5LZWJ	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-117YX-1526-SM-5H12T	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-SNOS-1026-SM-4DM4Y	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-V1D1-1926-SM-4JBGX	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-XMK1-1026-SM-4B65H	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-PLZ6-1126-SM-3P5ZR	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-WFON-1626-SM-4LVMV	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-YFCO-1626-SM-4W1Z3	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-146FQ-1726-SM-5QGPX	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11P7K-0626-SM-5985Z	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-RM2N-1126-SM-48FCY	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-S3XE-1326-SM-4AD4H	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-11NSD-0826-SM-5986S	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-12C56-1326-SM-5FQSV	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-T8EM-1826-SM-4DM7F	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13111-1326-SM-5GCNO	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-UTHO-2726-SM-4JBH9	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-111CU-1526-SM-5N9FS	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-14C5O-2826-SM-5RQI6	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-OIZH-2026-SM-3NB1M	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-Q2AI-1126-SM-48U19	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-NFK9-2226-SM-3MJGP	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13G51-2326-SM-5LZXV	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-T5JC-1226-SM-4DM7C	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-X5EB-1826-SM-4E3K8	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-QLQ7-1326-SM-4R1JY	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-145LV-1226-SM-5S2QH	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-ZY6K-1526-SM-5GZXE	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-ZTX8-1026-SM-5EGHD	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-U8XE-2526-SM-4E3IT	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-XQ3S-2526-SM-4BOOG	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13O61-1726-SM-5KM46	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-SNMC-0926-SM-4DM5U	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-YJ8A-1126-SM-5IFJU	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-S33H-1826-SM-4AD65	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-NPJ8-2426-SM-3MJHL	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-WYJK-0626-SM-4ONCZ	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-144GM-0826-SM-5O98R	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-QV44-1526-SM-4R1KI	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-P4QS-2026-SM-3NMCG	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-13RTJ-2126-SM-5S2PZ	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-XGQ4-1826-SM-4AT6F	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-OOBK-2025-SM-3LK5S	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-ZYFD-2526-SM-5E45L	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+GTEX-WOFM-0326-SM-4OOSL	Prostate	Prostate	Prostate	Normal Tissue	Male	GTEX
+TCGA-CH-5768-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7317-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7782-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6365-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7328-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7783-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7315-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7330-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6348-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-J4-A83J-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7794-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-CH-5767-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7789-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6333-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6499-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7115-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7781-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-7745-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7331-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6363-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7784-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7314-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7786-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-7211-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-CH-5761-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7327-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6342-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6496-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-7752-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6356-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7123-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-7740-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-7738-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-7742-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7321-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6362-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-8262-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-8258-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-7737-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7785-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7792-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7797-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6384-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-7819-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-7747-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-A8FO-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-G9-6351-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-8259-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7793-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-CH-5769-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-EJ-7125-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA
+TCGA-HC-8260-11	Prostate Adenocarcinoma	Prostate Adenocarcinoma	Prostate	Solid Tissue Normal	Male	TCGA

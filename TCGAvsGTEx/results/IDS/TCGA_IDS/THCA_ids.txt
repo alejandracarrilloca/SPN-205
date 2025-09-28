@@ -1,0 +1,572 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+TCGA-EL-A3MY-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-BJ-A2NA-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EM-A1CT-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-BJ-A290-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-ET-A3DW-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3T3-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZM-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3H2-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-BJ-A3PU-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3TA-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3T8-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZT-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EM-A1CU-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-ET-A2MX-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-H2-A2K9-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZP-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZG-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Male	TCGA
+TCGA-EL-A3ZO-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZQ-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A1YC-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A3PR-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3H1-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3MX-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A3ST-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-FY-A3TY-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3MW-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T2-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A1CS-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3N3-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T7-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3TB-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-KS-A41I-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZR-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-ET-A2N5-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T0-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-ET-A3DP-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A2N9-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZH-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZK-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A1CW-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-KS-A41L-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A28R-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T1-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3H7-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3GZ-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3T6-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZL-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-GE-A2C6-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A28W-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A28X-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EM-A1CV-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A2N7-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-BJ-A2N8-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-H2-A3RI-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-KS-A41J-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3N2-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-DO-A1JZ-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3ZS-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-E8-A2JQ-11	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Solid Tissue Normal	Female	TCGA
+TCGA-EL-A3CO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A13L-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-J8-A3YF-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FE-A239-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3MY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A0ZG-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A28S-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A45C-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A2NA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A1CT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FY-A4B0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A4K6-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A22O-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A4K7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-MK-A84Z-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A4FO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DE-A4MD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A290-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A1QL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3GP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FE-A231-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A1QO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A4FH-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FY-A3NP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A4K9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A0ZB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3MZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A2OZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A0YZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A2PW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A22P-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A3DW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A2PZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A3UO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A3VK-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3T3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A4KI-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A1QG-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3D4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A2CN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A40S-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3D0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A3AO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A13U-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A4UQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3ZM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A0Z5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A18Z-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3H2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A0Z2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-E3-A3E5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A3FM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A13O-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A3V0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A0Z0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A0ZC-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A190-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A4V5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A2PO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A3V6-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FY-A76V-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A2Q4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A3PU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A3VB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A22M-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A3EZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A2Q5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FK-A4UB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FY-A4B3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A13R-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A3VE-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DO-A2HM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A4O8-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A2PP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-L6-A4EQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A2OX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A2P2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A45H-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-J8-A42S-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A1QQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A1QM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3TA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A3BS-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A4KD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A3AR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-KS-A4I3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A3VG-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3CV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A3FO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A3O9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3D1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A3AJ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A2MZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A39O-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-J8-A3O2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-J8-A3YH-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A3VL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A40Q-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-J8-A3O0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-E3-A3DY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-IM-A4EB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A0ZJ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A45D-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3T8-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A22Q-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A3SY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3ZT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A4FU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-MK-A4N6-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A39M-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A45K-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A2P0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A2P1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A25M-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FE-A236-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-CE-A485-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-CE-A3MD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A1CU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A2CL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-BJ-A18Y-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FY-A3BL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DE-A4M9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3CY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A2CK-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EM-A4FR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A3BU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A2PR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A2MX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A2PQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-H2-A2K9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-ET-A3BX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-DJ-A3VJ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FY-A3ON-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3ZP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-FE-A3PA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-EL-A3ZG-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Male	TCGA
+TCGA-IM-A3U2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3AQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3O3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A39I-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A28V-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A4MB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3ZO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3ZQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2CO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3V5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A418-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-4C-A93U-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A1YA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A1YB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A39P-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A2MY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A1YC-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3FP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2PN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2PT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2QC-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A3PR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3T9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3VM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A4UL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4K1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A22N-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3DV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-J8-A4HY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A0ZA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3AI-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3H1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3MX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3R9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3W9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A0XZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2Q9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A3F0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2OV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A4FV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3I5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3YR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A0ZE-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A1QI-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3FL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A1QE-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CS-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2CM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3AK-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3ST-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3R8-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A4B4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A4M8-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A1QF-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2Q3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A22Z-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FK-A3SD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A2QD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3TY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A4I7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A0Y3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3V4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3VF-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3BT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A45F-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A4FM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-J8-A4HW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A69K-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A1QH-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-IM-A3ED-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-L6-A4EU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A0Z9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2Q0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2Q2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3V3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A3X7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A432-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A437-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3H5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3R6-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A291-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2QA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A242-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A434-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A22J-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A25G-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2PX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E3-A3DZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3MW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3T2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4JZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A1CS-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3FR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3OA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A39T-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A40L-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A40N-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-IM-A3U3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A4ID-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A0ZF-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A192-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4K0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3O6-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-H2-A26U-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-J8-A3YG-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2PV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2QB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A436-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3N3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A1YD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A2N4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A0ZH-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A4MA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A13P-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2PU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2Q7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3VI-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A2EA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A22I-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A25L-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3WA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-J8-A3NZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A3PT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A45I-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A4O9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-CE-A3ME-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A13X-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A416-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3D6-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2CS-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A25R-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A2N0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A4KN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A40M-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3V9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A44K-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FK-A3SH-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3R7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-QD-A8IV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A191-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A3KN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E3-A3E3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2CJ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A4FN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A4I5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-L6-A4ET-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A45G-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A4V4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A39K-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3NM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3NN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3T7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3TB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A1YE-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2CU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2P3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3BV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-J8-A3YD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A41I-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A28Z-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A45E-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2PY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E3-A3E1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3H4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3ZR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A22K-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2CR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2OY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3O7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A2N5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A40K-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A4I9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UM-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A414-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3T0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3AL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A4KQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A4IC-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A2OL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2Q1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3V2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3V7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3D5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3BO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A232-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A4MC-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4K2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3SU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3DP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3DQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FK-A3S3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A2N9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A1QN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3ZH-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3FN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3SZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A4FQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3DR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-IM-A41Y-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-CE-A481-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3ZK-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4JV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-H2-A3RH-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A4IB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-L6-A4EP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-MK-A4N9-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2PS-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2CQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A4FF-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A25J-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-H2-A422-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A45J-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3VA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A415-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A1CW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-IM-A420-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A41L-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A28R-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A2Q6-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A4V2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A413-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A417-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3T1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4JW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-CE-A484-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A13T-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3US-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GS-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2OW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A25I-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A3PC-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-IM-A41Z-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A41F-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A4I1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A7U5-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A4UR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A4V0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3H7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4KH-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3AN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A25K-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A238-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UK-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3H8-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4KG-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A25O-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A39N-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A28T-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-CE-A483-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A69J-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A4UW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E3-A3E0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E3-A3E2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3T6-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3ZL-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A2N3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3BP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3I4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-H2-A421-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A0Z3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4K4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A22L-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3O8-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3OB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A4FK-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3BN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3DO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3DS-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A3PB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-GE-A2C6-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-J8-A3O1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A28W-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A28X-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UY-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3VD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A4UT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A1CV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A40P-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-IM-A3EB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GO-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3GR-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A4JX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3AP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FK-A3SE-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-J8-A3YE-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A2N7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A2N8-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-CE-A13K-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A0Y2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DO-A1K0-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A419-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3FK-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3BW-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A230-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-BJ-A2P4-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-H2-A3RI-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-CE-A27D-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A13M-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3V8-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3ZN-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3SX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A25N-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FK-A3SB-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-KS-A41J-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-CE-A482-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A39S-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3BQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A23A-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2CP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A4G1-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A40T-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A234-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A235-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A433-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3N2-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3FJ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A25P-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A39R-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A40R-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DO-A1JZ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A438-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A44M-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A39J-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3DT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3CX-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3ZS-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A13V-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A3DU-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FK-A3SG-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FY-A3RA-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A1QD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A2CT-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-ET-A39L-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-MK-A4N7-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A13S-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EL-A3H3-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-EM-A3FQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A237-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A3UV-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-E8-A2JQ-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A233-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-FE-A3PD-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DJ-A4UP-01	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Primary Tumor	Female	TCGA
+TCGA-DE-A4MD-06	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Metastatic	Male	TCGA
+TCGA-J8-A3O2-06	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Metastatic	Male	TCGA
+TCGA-J8-A3YH-06	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Metastatic	Male	TCGA
+TCGA-EM-A2P1-06	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Metastatic	Male	TCGA
+TCGA-J8-A4HW-06	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Metastatic	Female	TCGA
+TCGA-EM-A2CS-06	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Metastatic	Female	TCGA
+TCGA-EM-A3SU-06	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Metastatic	Female	TCGA
+TCGA-EM-A3FQ-06	Thyroid Carcinoma	Thyroid Carcinoma	Thyroid Gland	Metastatic	Female	TCGA

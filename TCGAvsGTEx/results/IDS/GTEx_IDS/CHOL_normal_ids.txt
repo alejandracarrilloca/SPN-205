@@ -1,0 +1,10 @@
+sample	detailed_category	primary disease or tissue	_primary_site	_sample_type	_gender	_study
+TCGA-W5-AA30-11	Cholangiocarcinoma	Cholangiocarcinoma	Bile duct	Solid Tissue Normal	Male	TCGA
+TCGA-W5-AA31-11	Cholangiocarcinoma	Cholangiocarcinoma	Bile duct	Solid Tissue Normal	Male	TCGA
+TCGA-W5-AA2Q-11	Cholangiocarcinoma	Cholangiocarcinoma	Bile duct	Solid Tissue Normal	Male	TCGA
+TCGA-W5-AA2X-11	Cholangiocarcinoma	Cholangiocarcinoma	Bile duct	Solid Tissue Normal	Male	TCGA
+TCGA-W5-AA2I-11	Cholangiocarcinoma	Cholangiocarcinoma	Bile duct	Solid Tissue Normal	Male	TCGA
+TCGA-ZU-A8S4-11	Cholangiocarcinoma	Cholangiocarcinoma	Bile duct	Solid Tissue Normal	Male	TCGA
+TCGA-W5-AA2U-11	Cholangiocarcinoma	Cholangiocarcinoma	Bile duct	Solid Tissue Normal	Female	TCGA
+TCGA-W5-AA2R-11	Cholangiocarcinoma	Cholangiocarcinoma	Bile duct	Solid Tissue Normal	Female	TCGA
+TCGA-W5-AA34-11	Cholangiocarcinoma	Cholangiocarcinoma	Bile duct	Solid Tissue Normal	Female	TCGA
