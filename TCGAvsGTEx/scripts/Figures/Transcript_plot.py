@@ -68,23 +68,14 @@ threshold = results_df["log2FC"].abs().quantile(0.8)
 results_df["extreme"] = results_df["log2FC"].abs() >= threshold
 
 cancer_order = [
-    # Digestive system
     "CHOL", "LIHC", "COAD", "READ", "STAD", "PAAD", "ESCA",
-    # Urinary & reproductive system
     "BLCA", "PRAD", "TGCT", "UCEC", "UCS", "CESC",
-    # Endocrine system
     "ACC", "PCPG", "THCA",
-    # Breast
     "BRCA",
-    # Respiratory system
     "LUAD", "LUSC",
-    # Kidney
     "KICH", "KIRC", "KIRP",
-    # Central nervous system
     "GBM", "LGG",
-    # Blood & immune system
     "LAML", "DLBC", "THYM",
-    # Other
     "HNSC", "SKCM"
 ]
 

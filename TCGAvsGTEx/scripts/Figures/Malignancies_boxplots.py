@@ -18,7 +18,7 @@ transcripts = ["SPN", "SPN-205"]
 colors = {"Tumor": "#FC4E92", "Normal": "#7DEE75"}
 
 base_dir = "results/Transcripts"
-figures_dir = f"results/figures/per_cancer2"
+figures_dir = f"results/figures/Malignancies_boxplots"
 os.makedirs(figures_dir, exist_ok=True)
 
 df_all = []
